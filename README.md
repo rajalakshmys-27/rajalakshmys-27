@@ -1,4 +1,4 @@
-### Hi there, I'm Rajalakshmy! 👋 [**GitHub:**](https://github.com/rajalakshmys-27) | [**LinkedIn:**](https://www.linkedin.com/in/rajalakshmy-s-2709/) | [**Portfolio:**](https://rajalakshmy-portfolio.vercel.app/)
+### Hi there, I'm Rajalakshmy! 👋 [**GitHub**](https://github.com/rajalakshmys-27) | [**LinkedIn**](https://www.linkedin.com/in/rajalakshmy-s-2709/) | [**Portfolio**](https://rajalakshmy-portfolio.vercel.app/)
 
 🚀 **Senior Front-End Developer | React.js | Next.js | Node.js | MERN Stack | AWS**
 
@@ -42,8 +42,8 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 
 ### 🏆 Awards & Achievements
 
-🏅 **Service and Commitment Award** – Recognized for exceptional contributions and dedication.
-🏅 **Special Initiative Award** – Acknowledged for driving innovative solutions and initiatives.
+ - 🏅 **Service and Commitment Award** – Recognized for exceptional contributions and dedication.
+ - 🏅 **Special Initiative Award** – Acknowledged for driving innovative solutions and initiatives.
 
 ---
 
