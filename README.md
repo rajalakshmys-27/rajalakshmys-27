@@ -1,4 +1,4 @@
-### Hi there, I'm Rajalakshmy! 👋 **GitHub:** [@rajalakshmys-27](https://github.com/rajalakshmys-27) | **LinkedIn:** [Rajalakshmy](https://www.linkedin.com/in/rajalakshmy-s-2709/) | **Portfolio:** [Rajalakshmy's Portfolio](https://rajalakshmy-portfolio.vercel.app/)
+### Hi there, I'm Rajalakshmy! 👋 [**GitHub:**](https://github.com/rajalakshmys-27) | [**LinkedIn:**](https://www.linkedin.com/in/rajalakshmy-s-2709/) | [**Portfolio:**](https://rajalakshmy-portfolio.vercel.app/)
 
 🚀 **Senior Front-End Developer | React.js | Next.js | Node.js | MERN Stack | AWS**
 
