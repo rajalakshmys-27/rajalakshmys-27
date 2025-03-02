@@ -21,7 +21,7 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 
 ### 🔥 What I’m Working On
 
-- 🚧 **[Study Site]([https://github.com/rajalakshmys-27](https://lastminref.netlify.app/))** – A cheat sheet platform for JavaScript, CSS, and GitHub, built with **Next.js (App Router), Tailwind CSS, Redux, and MongoDB**.
+- 🚧 **[Study Site](https://lastminref.netlify.app/)** – A cheat sheet platform for JavaScript, CSS, and GitHub, built with **Next.js (App Router), Tailwind CSS, Redux, and MongoDB**.
 - 🛒 **E-commerce Site** – A modern online shopping platform with seamless UI/UX and optimized performance.
 - 📚 **Expanding Knowledge** – Learning more about **AWS services** to build scalable and efficient applications.
 
