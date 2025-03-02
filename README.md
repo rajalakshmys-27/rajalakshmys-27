@@ -1,8 +1,8 @@
 ### Hi there, I'm Rajalakshmy! 👋
 
-🚀 **Senior Front-End Developer | React.js & Next.js Enthusiast | MERN Stack | AWS**
+🚀 **Senior Front-End Developer | React.js | Next.js | Node.js | MERN Stack | AWS**
 
-I am an **Experienced Front-End Developer with 3.5+ years** of expertise in designing and building **scalable, high-performance web applications** using **React.js, Next.js, and AWS**. Passionate about optimizing user experience and writing clean, maintainable code, I specialize in full-stack JavaScript development, ensuring seamless front-end and back-end integration.
+I am an **Experienced Front-End Developer with 3.5+ years** of expertise in designing and building **scalable, high-performance web applications** using **React.js, Next.js, and Node.js**. Passionate about optimizing user experience and writing clean, maintainable code, I specialize in full-stack JavaScript development, ensuring seamless front-end and back-end integration.
 
 ---
 
@@ -21,7 +21,7 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 
 ### 🔥 What I’m Working On
 
-- 🚧 **[Study Site](https://github.com/rajalakshmys-27)** – A cheat sheet platform for JavaScript, CSS, and GitHub, built with **Next.js (App Router), Tailwind CSS, Redux, and MongoDB**.
+- 🚧 **[Study Site]([https://github.com/rajalakshmys-27](https://lastminref.netlify.app/))** – A cheat sheet platform for JavaScript, CSS, and GitHub, built with **Next.js (App Router), Tailwind CSS, Redux, and MongoDB**.
 - 🛒 **E-commerce Site** – A modern online shopping platform with seamless UI/UX and optimized performance.
 - 📚 **Expanding Knowledge** – Learning more about **AWS services** to build scalable and efficient applications.
 
