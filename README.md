@@ -48,16 +48,20 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 ---
 
 ### 📊 GitHub Stats
-<div style="align: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=rajalakshmys-27&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajalakshmys-27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmys-27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajalakshmys-27&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rajalakshmys-27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmys-27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
