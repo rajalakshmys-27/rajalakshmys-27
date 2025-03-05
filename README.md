@@ -32,11 +32,11 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 - **TCS (Tata Consultancy Services)** | **Systems Engineer**
   - Developed a **full-stack application** using **Node.js, Express.js, and MongoDB**, following the **MVC architecture** and **GraphQL** for optimized data handling.
   - Integrated **AWS services** (Amplify, CloudWatch, Secrets Manager, S3) for deployment, monitoring, and secure storage.
-  - Revamped an airline website (**Thai Airways**) using **React.js, Redux (Toolkit & Saga), and SCSS**, improving user engagement by **30%**.
+  - Revamped an airline website using **React.js, Redux (Toolkit & Saga), and SCSS**, improving user engagement by **30%**.
   - Improved SEO by **50%** using **Next.js server-side rendering (SSR)**.
   - Implemented **Google OAuth 2.0 Single Sign-On** and multilingual support with **i18next**.
   - Leveraged **JEST & RTL for unit testing**, increasing coverage by **70%**.
-  - Migrated a retail platform (**BestBuy**) to **React.js & LESS**, improving responsiveness and boosting performance by **30%**.
+  - Migrated a retail platform to **React.js & LESS**, improving responsiveness and boosting performance by **30%**.
 
 ---
 
@@ -50,7 +50,7 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajalakshmys-27&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rajalakshmys-27&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rajalakshmys-27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
