@@ -52,16 +52,11 @@ I am an **Experienced Front-End Developer with 3.5+ years** of expertise in desi
   <img src="https://streak-stats.demolab.com/?user=rajalakshmys-27&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rajalakshmys-27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmys-27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajalakshmys-27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> &nbsp;&nbsp;
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmys-27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
